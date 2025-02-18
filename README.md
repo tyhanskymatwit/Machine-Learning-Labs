@@ -5,3 +5,4 @@
 #### Classification (logistic regression, support vector machines).
 #### Performance metrics (accuracy, precision)
 #### Data preprocessing (scaling, normalization)
+This work rewarded me with an A in Machine Learning and I couldn't be prouder of my efforts. R is without a doubt my favorite language and the work here certainly cemented that fact. The work is a bit unorganized but I've attached the assignment's instructions to highlight the accuracy to which I have followed said instructions.
